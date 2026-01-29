@@ -18,7 +18,7 @@ The goal of this project is to showcase practical data analyst skills used in re
 
 ## Tools & Technologies
 
-* Python (Pandas, NumPy, Matplotlib/Seaborn) – Data loading, EDA, and cleaning
+* Python (Pandas,sqlalchemy) – Data loading, EDA, and cleaning
 
 * MySQL – Data storage and analytical SQL queries
 
@@ -93,12 +93,12 @@ The goal of this project is to showcase practical data analyst skills used in re
 
 1- Clone the repository:
 
-  git clone <repository-url>
+  """git clone <repository-url>"""
 
 
 2- Install required Python libraries:
 
-  pip install pandas sqlalchemy
+  """pip install pandas sqlalchemy"""
 
 
 3- Run the Python scripts to perform EDA and data cleaning.
