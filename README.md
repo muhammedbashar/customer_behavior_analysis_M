@@ -1,4 +1,4 @@
-# End-to-End Data Analytics Project
+# Customer Behaviour Data Analytics Project
 ## Overview
 
 This project demonstrates a complete end-to-end data analytics workflow, starting from raw data ingestion to business-ready insights.
@@ -12,7 +12,7 @@ The goal of this project is to showcase practical data analyst skills used in re
 
 * Format: CSV
 
-* Description: The dataset contains structured business-related data used for analysis and visualization.
+* Description: The dataset contains structured business-related data used for analysis and visualisation.
 
 * Data was initially explored and cleaned using Python before being stored and queried in a MySQL database.
 
@@ -64,7 +64,7 @@ The goal of this project is to showcase practical data analyst skills used in re
 
   * Created a structured analytical report.
 
-  * Developed a presentation using Gamma to summarize insights and findings.
+  * Developed a presentation using Gamma to summarise insights and findings.
 
 ## Dashboard
 
@@ -84,7 +84,7 @@ The goal of this project is to showcase practical data analyst skills used in re
 
 * Identified meaningful trends and patterns from the dataset.
 
-* Transformed raw data into actionable business insights through visualization.
+* Transformed raw data into actionable business insights through visualisation.
 
 * Demonstrated the complete analytics lifecycle from data ingestion to presentation.
 
@@ -98,7 +98,7 @@ The goal of this project is to showcase practical data analyst skills used in re
 
 2- Install required Python libraries:
 
-  """pip install pandas sqlalchemy"""
+  "pip install pandas sqlalchemy"
 
 
 3- Run the Python scripts to perform EDA and data cleaning.
@@ -109,7 +109,7 @@ The goal of this project is to showcase practical data analyst skills used in re
 
 6- Open the Power BI file and refresh the connection.
 
-7- Review the report and presentation files for summarized insights.
+7- Review the report and presentation files for summarised insights.
 
 ## Key Takeaway
 
